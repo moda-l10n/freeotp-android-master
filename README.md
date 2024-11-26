@@ -30,3 +30,7 @@ The FreeOTP app uses the following permissions
 |------------|--------------------------|----------|-----------------|
 | Camera     | Recognition of QR codes  | No       | Dangerous       |
 | Internet   | Token image provisioning | No       | Normal          |
+
+
+## 軟體中文 化
+本專案為數位部開放原始碼軟體中文化專案項目之一，其中文化與專案應用可參考 Wiki。
